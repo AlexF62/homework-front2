@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlexF62/homework-front2.git/static/css/main.4d0f1fde.css",
+    "main.js": "/AlexF62/homework-front2.git/static/js/main.42dba9e5.js",
+    "static/js/787.67f55d8d.chunk.js": "/AlexF62/homework-front2.git/static/js/787.67f55d8d.chunk.js",
+    "static/media/avatar.png": "/AlexF62/homework-front2.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/AlexF62/homework-front2.git/index.html",
+    "main.4d0f1fde.css.map": "/AlexF62/homework-front2.git/static/css/main.4d0f1fde.css.map",
+    "main.42dba9e5.js.map": "/AlexF62/homework-front2.git/static/js/main.42dba9e5.js.map",
+    "787.67f55d8d.chunk.js.map": "/AlexF62/homework-front2.git/static/js/787.67f55d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0f1fde.css",
+    "static/js/main.42dba9e5.js"
+  ]
+}
