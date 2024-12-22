@@ -2,7 +2,7 @@
     "name": "hws2",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/AlexF62/homework-front2.git",
+    "homepage": "https://AlexF62.github.io/homework-front2",
     "dependencies": {
         "@emotion/react": "11.10.4",
         "@emotion/styled": "11.10.4",
